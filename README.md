@@ -2,14 +2,14 @@
 
 Welcome to my Python learning journey! This project is a structured collection of personal notes, hands-on examples, and practical explanations aimed at mastering Python from the ground up. Whether you're a beginner starting out or someone looking to refresh their understanding, this notebook is designed to be clear, accessible, and continually growing.
 
----
+
 
 ## ✨ What is this?
 
 This is a **Markdown-based Python handbook** created while learning the language, topic by topic.  
 All notes are written in simple English and structured for readability and practical use. The layout follows a GitBook-style format with a sidebar (via `SUMMARY.md`) for easy navigation.
 
----
+
 
 ## 📚 Who is this for?
 
@@ -18,7 +18,7 @@ All notes are written in simple English and structured for readability and pract
 - 🎓 Students who want a practical supplement to courses
 - 👨‍💻 Anyone who enjoys clean and structured notes
 
----
+
 
 ## 🧭 Topics Covered (and growing...)
 
@@ -29,7 +29,7 @@ Each topic has its own Markdown file and covers:
 - Mini exercises
 - Code snippets and best practices
 
----
+
 
 ## 🛠️ Tools Used
 
@@ -38,7 +38,7 @@ Each topic has its own Markdown file and covers:
 - 🌐 **GitHub** for version control and sharing
 - 📚 Optional: Can be turned into a GitBook, Obsidian vault, or hosted with GitHub Pages
 
----
+
 
 ## 📌 Structure
 
@@ -82,7 +82,7 @@ python-notes-book/
 - 💻 **Syntax-highlighted code**  
 - 📎 **Related links and resources** 
 
----
+
 
 ## 📖 How to Use This Notebook
 
@@ -93,7 +93,7 @@ python-notes-book/
 - It’s recommended to use a Markdown preview extension (like “Markdown All in One” in VS Code) for the best reading experience.
 - Use the notebook as both a reference and a place to take your own notes as you learn.
 
----
+
 
 ## 📤 How to Clone and View Locally
 
@@ -107,7 +107,7 @@ code .
 
 >💡 **Tip**: Use Visual Studio Code with the **'Markdown All in One'** extension for live previews and enhanced writing features.
 
----
+
 
 ## 🔭 Coming Soon
 
@@ -119,7 +119,7 @@ Planned additions include:
 - 📘 Jupyter Notebook support
 - 🌍 GitHub Pages or GitBook hosting
 
----
+
 
 ## 🤝 Contribution
 
@@ -131,7 +131,6 @@ This is a personal learning project, but if you’d like to contribute or sugges
 
 All helpful suggestions and improvements are welcome! 🙌
 
----
 
 ## 📖 License
 
@@ -145,7 +144,6 @@ You are free to:
 Just make sure to give proper credit when using or distributing the content.  
 See the full license terms in the [LICENSE](LICENSE) file.
 
----
 
 ## ☕ Support & Motivation
 
@@ -158,10 +156,8 @@ If you find it helpful:
 
 Your feedback and encouragement help keep this project alive and growing. Thank you! 🙏
 
----
+
+![Yunus YILDIZ](img/yunus.png)
 
 Happy learning! 🐍🚀  
-<p align="left">
-  <img src="img/yunus.png" width="40" height="40" style="border-radius: 50%; vertical-align: middle;" />
-  <em>– Written by <a href="https://github.com/yunusyildiz-ch">Yunus YILDIZ</a></em>
-</p>
+*– Written by [Yunus YILDIZ](https://github.com/yunusyildiz-ch)*
