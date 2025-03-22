@@ -157,7 +157,7 @@ If you find it helpful:
 Your feedback and encouragement help keep this project alive and growing. Thank you! 🙏
 
 
-![Yunus YILDIZ](img/yunus.png)
+![Yunus YILDIZ](assets/yunus.png)
 
 Happy learning! 🐍🚀  
 *– Written by [Yunus YILDIZ](https://github.com/yunusyildiz-ch)*

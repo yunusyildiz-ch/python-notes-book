@@ -1,5 +1,7 @@
 # 0. Anaconda Setup and Environment Preparation
 
+![Anaconda Environment Setup](assets/anaconda-setup.png)
+
 Welcome! Before diving into Python programming, it's important to set up a clean and reliable development environment. In this section, you'll learn how to install Anaconda and prepare your system for working with Python projects effectively.
 
 ---
