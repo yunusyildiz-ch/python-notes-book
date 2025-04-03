@@ -134,7 +134,11 @@ All helpful suggestions and improvements are welcome! 🙌
 
 ## 📖 License
 
-This project is licensed under the [MIT License](LICENSE).  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for more details.
+
 You are free to:
 
 - ✅ Use the content for personal or educational purposes  
@@ -142,7 +146,6 @@ You are free to:
 - 📤 Share it with others  
 
 Just make sure to give proper credit when using or distributing the content.  
-See the full license terms in the [LICENSE](LICENSE) file.
 
 
 ## ☕ Support & Motivation
@@ -156,8 +159,36 @@ If you find it helpful:
 
 Your feedback and encouragement help keep this project alive and growing. Thank you! 🙏
 
-
-![Yunus YILDIZ](assets/yunus.png)
-
 Happy learning! 🐍🚀  
-*– Written by [Yunus YILDIZ](https://github.com/yunusyildiz-ch)*
+
+## 👤 Author
+
+<div align="center">
+  <img src="https://github.com/yunusyildiz-ch/hirebook/blob/main/assets/github-yunus.png" width="100" height="100" alt="Yunus YILDIZ" />
+</div>
+<h3 align="center">Yunus YILDIZ</h3>
+<p align="center">
+    <i>Always learning. Always building.<br/>
+    Transforming ideas into digital experiences.<br/>
+    Passionate about solving real-world challenges through technology.</i>
+</p>
+<p align="center">
+  <a href="https://github.com/yunusyildiz-ch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:yunusyildiz@swissmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yunusyildiz-ch">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://bsky.app/profile/yunusyildiz.ch">
+    <img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky Badge"/>
+  </a>
+  <a href="https://yunusyildiz.ch">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://x.com/yunusyildiz_ch">
+    <img src="https://img.shields.io/badge/X%20|%20Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
+  </a>
+</p>
