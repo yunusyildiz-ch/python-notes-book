@@ -191,4 +191,7 @@ Happy learning! 🐍🚀
   <a href="https://x.com/yunusyildiz_ch">
     <img src="https://img.shields.io/badge/X%20|%20Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="X Badge"/>
   </a>
+   <a href="mailto:mail@yunusyildiz.ch">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
